@@ -1,0 +1,28 @@
+Instrucciones de Uso de Bastión - Gestor de Contraseñas:
+
+1.  **Crear/Abrir Base de Datos:**
+    * Al iniciar, elija crear una nueva base de datos o abrir una existente.
+    * Deberá establecer o introducir una Contraseña Maestra. ¡No la olvide!
+
+2.  **Gestión de Grupos:**
+    * Los grupos organizan sus entradas (ej. 'Email', 'Bancos', 'Redes Sociales').
+    * Para añadir un nuevo grupo, haga clic en '➕G' en la barra de herramientas o 'Grupo -> Añadir Grupo'. Si no hay un grupo seleccionado, se creará un grupo de nivel superior. Si hay un grupo seleccionado, el nuevo grupo será un subgrupo.
+    * Para mover un grupo, haga clic y arrastre el grupo a su nueva ubicación. Suelte sobre el grupo padre deseado, o sobre un espacio en blanco para hacerlo de nivel superior.
+    * Para eliminar un grupo, selecciónelo y haga clic en '🗑️' en la barra de herramientas o 'Grupo -> Eliminar Grupo'. Tenga en cuenta que esto eliminará todos sus subgrupos y entradas.
+
+3.  **Gestión de Entradas:**
+    * Las entradas contienen sus credenciales (título, usuario, contraseña, URL, notas).
+    * Para añadir una entrada, primero seleccione el grupo donde desea añadirla. Luego, haga clic en '➕E' en la barra de herramientas o 'Entrada -> Añadir Entrada'.
+    * Para editar una entrada, selecciónela y haga clic en '✏️' en la barra de herramientas, o haga doble clic en la entrada.
+    * Para eliminar una entrada, selecciónela y haga clic en '🗑️' en la barra de herramientas o 'Entrada -> Eliminar Entrada'.
+
+4.  **Búsqueda:**
+    * Utilice la barra de búsqueda en la parte superior derecha para buscar entradas.
+    * La búsqueda se realiza en tiempo real y es insensible a mayúsculas y minúsculas.
+    * Si un grupo está seleccionado, la búsqueda se limita a ese grupo. Si no hay grupo seleccionado (vista 'Database'), la búsqueda se realiza en todas las entradas de todos los grupos.
+
+5.  **Copiar Detalles:**
+    * Seleccione una entrada y use los botones '📋U' (Usuario), '📋P' (Contraseña) o '📋L' (URL) en la barra de herramientas para copiar rápidamente la información al portapapeles.
+
+6.  **Seguridad:**
+    * Todas sus entradas se guardan encriptadas. Su Contraseña Maestra es la única clave para acceder a ellas. ¡Guárdela de forma segura y no la pierda!
